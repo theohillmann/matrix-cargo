@@ -46,8 +46,8 @@ To set up and run Matrix Cargo, follow these instructions:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/matrix_cargo.git
-   cd matrix_cargo
+   git clone https://github.com/theohillmann/matrix-cargo.git
+   cd matrix-cargo
    ```
 
 2. Create and activate a virtual environment:
